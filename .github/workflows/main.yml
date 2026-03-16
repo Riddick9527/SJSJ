@@ -1,3 +1,4 @@
+on: workflow_dispatch
 name: 神将世界sjsj
 
 permissions:
